@@ -13,4 +13,10 @@ You will perform some data analysis on the conservation statuses of these specie
 After you perform your analysis, you will share your findings about the National Park Service.
 
 
+## Project Tasks
 
+3. Explore and Explain Data
+	- Once you have your data, it’s a good idea to get acquainted with it.
+	  You should show some summary statistics and visually examine your data.
+	  Don’t forget to write out some insights that you have gained along with
+ 	  your analysis.
